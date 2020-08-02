@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLogGenericHost", "NLogGenericHost\NLogGenericHost.csproj", "{41D656D2-EEEA-43FB-AE0D-7743F094049D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41D656D2-EEEA-43FB-AE0D-7743F094049D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41D656D2-EEEA-43FB-AE0D-7743F094049D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41D656D2-EEEA-43FB-AE0D-7743F094049D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41D656D2-EEEA-43FB-AE0D-7743F094049D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4026AA46-DBBE-4517-AE6C-4C68AB15B13E}
+	EndGlobalSection
+EndGlobal
